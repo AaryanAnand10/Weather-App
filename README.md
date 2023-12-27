@@ -18,7 +18,7 @@ A simple weather app that allows users to check the current weather conditions f
 4 OpenWeatherMap API for weather data
 
 # Usage:
-1 Clone this repository to your local machine using the command git clone https://github.com/username/weather-app.git.
+1 Clone this repository to your local machine using the command git clone git@github.com:AaryanAnand10/Weather-App.git
 
 2 Open the index.html file in your web browser.
 
