@@ -10,5 +10,7 @@ A simple weather app that allows users to check the current weather conditions f
 1 HTML
 
 2 CSS
+
 3 JavaScript
+
 4 OpenWeatherMap API for weather data
