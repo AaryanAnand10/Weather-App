@@ -2,9 +2,11 @@
 A simple weather app that allows users to check the current weather conditions for a specific city.
 
 # Features:
-   Enter a location in the search box.
-   Click the "Search" button.
-   Get the current weather conditions for the searched location.
+   1 Enter a location in the search box.
+   
+   2 Click the "Search" button.
+   
+   3 Get the current weather conditions for the searched location.
    
 # Technologies Used:
 1 HTML
