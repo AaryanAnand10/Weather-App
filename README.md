@@ -13,7 +13,7 @@ I have built Weather App By React JS and Tailwind CSS styled components used for
 
 2 CSS
 
-3 JavaScript
+3 Reactjs
 
 4 Tailwind 
 
