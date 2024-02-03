@@ -1,5 +1,5 @@
 # Weather-App
-A simple weather app that allows users to check the current weather conditions for a specific city.
+I have built Weather App By React JS and Tailwind CSS styled components used for styling to my weather app now days used frequently to see weather of your country
 
 # Features:
    1 Enter a location in the search box.
@@ -14,6 +14,8 @@ A simple weather app that allows users to check the current weather conditions f
 2 CSS
 
 3 JavaScript
+
+4 Tailwind 
 
 4 OpenWeatherMap API for weather data
 
